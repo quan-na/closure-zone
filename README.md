@@ -1,3 +1,5 @@
+> **Project status**: *initialized* - it is not ready to be seen.
+
 # Closure Zone
 A strategy game with programmable units.
 
